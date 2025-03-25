@@ -1,10 +1,5 @@
 # Stress Impacts On Lifestyle Behavior
 
-## Author
-**Gabriel Gladstone**  
-Department of Computer Engineering, Charlottesville, VA  
-Email: zwy7ce@virginia.edu  
-
 ## Overview
 This study explores the relationship between work-related stress and daily lifestyle behavior. Using long-term online behavioral data from a single participant, the research examines how stress affects sleep, fitness, and gaming habits. The findings indicate that work-related stress has a statistically significant but small negative impact on a person’s lifestyle choices.
 
