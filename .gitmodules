@@ -1,0 +1,6 @@
+[submodule "cs6501-place-sense"]
+	path = cs6501-place-sense
+	url = https://github.com/gladstone-9/cs6501-place-sense.git
+[submodule "cs6501-bespoke-framework"]
+	path = cs6501-bespoke-framework
+	url = https://github.com/gladstone-9/cs6501-bespoke-framework.git
