@@ -1,0 +1,8 @@
+venv
+data_cached
+phone_data
+sleep_data
+gaming_data
+work_data
+_pycache_*
+*.pyc
