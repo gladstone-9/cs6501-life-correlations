@@ -35,7 +35,7 @@ Work-related stress exhibits weak negative correlations with lifestyle activitie
 - **Steps per day**: \(r = -0.14\), \(p < 0.001\)
 - **Active Burn**: \(r = -0.19\), \(p < 0.001\)
 - **Basal Burn**: \(r = -0.10\), \(p < 0.05\)
-- **Gaming**: \(r = -0.20\), \(p \approx 0.05\)
+- **Gaming**: \(r = -0.20\), \(p ≈ 0.05\)
 
 ### Causation Analysis
 OLS regression indicates that stress is a statistically significant but weak predictor of reduced physical activity and gaming.
